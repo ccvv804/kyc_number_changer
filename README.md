@@ -2,4 +2,4 @@
 kyc number changer
 
 run
-<pre><code>python3 shift.py ABCDE.KYC 12345</code></pre> 
+<pre><code>python3 kycshift.py ABCDE.KYC 12345</code></pre> 
